@@ -1,0 +1,17 @@
+C:\Users\Nikita\RiderProjects\Lab1\Providers\bin\Debug\net6.0\Providers.deps.json
+C:\Users\Nikita\RiderProjects\Lab1\Providers\bin\Debug\net6.0\Providers.dll
+C:\Users\Nikita\RiderProjects\Lab1\Providers\bin\Debug\net6.0\Providers.pdb
+C:\Users\Nikita\RiderProjects\Lab1\Providers\bin\Debug\net6.0\Data.dll
+C:\Users\Nikita\RiderProjects\Lab1\Providers\bin\Debug\net6.0\Provider.dll
+C:\Users\Nikita\RiderProjects\Lab1\Providers\bin\Debug\net6.0\Data.pdb
+C:\Users\Nikita\RiderProjects\Lab1\Providers\bin\Debug\net6.0\Provider.pdb
+C:\Users\Nikita\RiderProjects\Lab1\Providers\obj\Debug\net6.0\Providers.csproj.AssemblyReference.cache
+C:\Users\Nikita\RiderProjects\Lab1\Providers\obj\Debug\net6.0\Providers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\RiderProjects\Lab1\Providers\obj\Debug\net6.0\Providers.AssemblyInfoInputs.cache
+C:\Users\Nikita\RiderProjects\Lab1\Providers\obj\Debug\net6.0\Providers.AssemblyInfo.cs
+C:\Users\Nikita\RiderProjects\Lab1\Providers\obj\Debug\net6.0\Providers.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\RiderProjects\Lab1\Providers\obj\Debug\net6.0\Providers.csproj.CopyComplete
+C:\Users\Nikita\RiderProjects\Lab1\Providers\obj\Debug\net6.0\Providers.dll
+C:\Users\Nikita\RiderProjects\Lab1\Providers\obj\Debug\net6.0\refint\Providers.dll
+C:\Users\Nikita\RiderProjects\Lab1\Providers\obj\Debug\net6.0\Providers.pdb
+C:\Users\Nikita\RiderProjects\Lab1\Providers\obj\Debug\net6.0\ref\Providers.dll
